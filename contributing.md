@@ -2,9 +2,22 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Adding a awesome list
+## Adding to this list
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+Please ensure your pull request adheres to the following guidelines. 
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Use the following format: `[Game name](link) - Short description.`
+- Where possible, please include some kind of evidence of NLG in the game. Think of links to screenshots, code, etc.
+- Link additions should be added to the bottom of the relevant category.
+- New categories or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request and commit should have a useful title.
+
+Thank you for your suggestions!
 
 ## Creating your own awesome list
 
