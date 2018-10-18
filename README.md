@@ -11,16 +11,13 @@ Follow me on [Twitter](https://twitter.com/jd7h).
 - [Indie games](#indie-games)
   - [Idle games](#idle-games)
   - [Interactive fiction](#interactive-fiction)
+  - [Other](#other)
 
 ## Commercial games
 - [Diablo III](//diablo3.com) - Some of the loot in the Diablo games is procedurally generated. Different types of weapons have specific names and bonuses. [List of weapon types](https://diablo.gamepedia.com/List_of_Affixes)
 - [Blood & Laurels](https://versu.com/2014/05/28/blood-laurels/) - No longer available but an iOS IF game which ran on "Versu" an engine built specifically for NLG use cases. The game generated character behaviours and dialogue procedurally. Posts on this system can be found on Emily Short's blog such as [Writing for Versu](https://emshort.blog/2017/05/18/mailbag-writing-for-versu/) and [Versu: Conversation Implementation](https://emshort.blog/2013/02/26/versu-conversation-implementation/).
 
 ## Indie games
-### Other
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/)
-- [FTL: Faster Than Light](//https://subsetgames.com/ftl.html) - FTL uses a similar approach as Diablo for generating [ships](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Ship_Modifiers), [weapons](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Weapon_Modifiers) and drones(http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Drone_Modifiers).
-- [Ultima Ratio Regum](https://www.markrjohnsongames.com/games/ultima-ratio-regum/) - This roguelike game incorporates language generation for NPC dialogue. Mark R. Johnson has written various [blog posts](https://www.markrjohnsongames.com/games/ultima-ratio-regum/) about the technicalities.
 
 ### Idle games
 - [Epitaph](https://mkremins.itch.io/epitaph) - Epitaph features procedurally generated civilizations, events and tech trees. [Underlying grammar for events](https://github.com/mkremins/epitaph/blob/master/src/epitaph/events.cljs).
@@ -32,3 +29,8 @@ Follow me on [Twitter](https://twitter.com/jd7h).
 - [Voyageur](https://voyageur.space/) - An IF game that uses the [Improv](https://github.com/sequitur/improv) generative text library (created by the game’s author, [Bruno Dias](https://twitter.com/notbrunoagain)) to generate procedural descriptions of the various locations and situations you encounter. Here’s an [interview with Bruno](https://ifsff.wordpress.com/2016/06/17/interview-bruno-dias-on-voyageur-and-procedural-generation/) in which he discusses his approach to writing with procedural text.
 - [Seedship](http://philome.la/johnayliff/seedship) - An IF game that procedurally assembles star system and event descriptions as you journey through space. Source code doesn’t appear to be readily available, but examining the HTML reveals that some of the surface text is being stitched together from smaller pieces.
 - [Starfreighter](https://mkremins.itch.io/starfreighter) - An IF game about eking out an existence as a freelancing light freighter captain in a procedurally generated region of space. The vast majority of text in the game is procedural; [here’s a file with some good examples](https://github.com/mkremins/starfreighter/blob/master/src/starfreighter/cards/port.cljs) of how the game uses grammars to generate surface text.
+
+### Other
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/)
+- [FTL: Faster Than Light](//https://subsetgames.com/ftl.html) - FTL uses a similar approach as Diablo for generating [ships](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Ship_Modifiers), [weapons](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Weapon_Modifiers) and drones(http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Drone_Modifiers).
+- [Ultima Ratio Regum](https://www.markrjohnsongames.com/games/ultima-ratio-regum/) - This roguelike game incorporates language generation for NPC dialogue. Mark R. Johnson has written various [blog posts](https://www.markrjohnsongames.com/games/ultima-ratio-regum/) about the technicalities.
