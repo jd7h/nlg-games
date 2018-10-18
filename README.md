@@ -18,8 +18,9 @@ Follow me on [Twitter](https://twitter.com/jd7h).
 
 ## Indie games
 ### Other
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) -
-- FTL: Faster Than Light](//) - FTL uses a similar approach as Diablo for generating [ships](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Ship_Modifiers), [weapons](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Weapon_Modifiers) and drones(http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Drone_Modifiers).
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/)
+- [FTL: Faster Than Light](//https://subsetgames.com/ftl.html) - FTL uses a similar approach as Diablo for generating [ships](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Ship_Modifiers), [weapons](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Weapon_Modifiers) and drones(http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Drone_Modifiers).
+- [Ultima Ratio Regum](https://www.markrjohnsongames.com/games/ultima-ratio-regum/) - This roguelike game incorporates language generation for NPC dialogue. Mark R. Johnson has written various [blog posts](https://www.markrjohnsongames.com/games/ultima-ratio-regum/) about the technicalities.
 
 ### Idle games
 - [Epitaph](https://mkremins.itch.io/epitaph) - Epitaph features procedurally generated civilizations, events and tech trees. [Underlying grammar for events](https://github.com/mkremins/epitaph/blob/master/src/epitaph/events.cljs).
