@@ -17,6 +17,10 @@ Follow me on [Twitter](https://twitter.com/jd7h).
 - [Blood & Laurels](https://versu.com/2014/05/28/blood-laurels/) - No longer available but an iOS IF game which ran on "Versu" an engine built specifically for NLG use cases. The game generated character behaviours and dialogue procedurally. Posts on this system can be found on Emily Short's blog such as [Writing for Versu](https://emshort.blog/2017/05/18/mailbag-writing-for-versu/) and [Versu: Conversation Implementation](https://emshort.blog/2013/02/26/versu-conversation-implementation/).
 
 ## Indie games
+### Other
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) -
+- FTL: Faster Than Light](//) - FTL uses a similar approach as Diablo for generating [ships](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Ship_Modifiers), [weapons](http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Weapon_Modifiers) and drones(http://ftl-captains-edition.wikia.com/wiki/Endless_Loot_Drone_Modifiers).
+
 ### Idle games
 - [Epitaph](https://mkremins.itch.io/epitaph) - Epitaph features procedurally generated civilizations, events and tech trees. [Underlying grammar for events](https://github.com/mkremins/epitaph/blob/master/src/epitaph/events.cljs).
 
