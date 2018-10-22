@@ -11,6 +11,8 @@ Follow me on [Twitter](https://twitter.com/jd7h).
 - [Indie games](#indie-games)
   - [Idle games](#idle-games)
   - [Interactive fiction](#interactive-fiction)
+  - [Other](#other)
+  - [Research](#research)
 
 ## Commercial games
 - [Diablo III](//diablo3.com) - Some of the loot in the Diablo games is procedurally generated. Different types of weapons have specific names and bonuses. [List of weapon types](https://diablo.gamepedia.com/List_of_Affixes)
